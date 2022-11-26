@@ -7,6 +7,7 @@
  * pantalla el número de veces que el usuario ha intentado adivinar el número. Si el usuario
  * introduce algo que no es un número, se debe controlar esa excepción e indicarlo por
  * pantalla. En este último caso también se debe contar el carácter fallido como un intento.
+ * falto la clase  Premio: prear premios diferentes, segun tiempo que tomo adivinar.
  */
 package g10ej5;
 
